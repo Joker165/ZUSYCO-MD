@@ -17,9 +17,9 @@ Creator : @iamxda-The joker , @Antisocial Humidity
 
 module.exports = {
   OWNER_NUMBER: "2348022159244",
-  SUDO_NUMBERS : "2348022159244,94719574492",
-  OWNER_NAME: "『 𝙼𝚁 𝙽𝙸𝙼𝙰 』",
-  BOT_NAME : "ＺＵＳＹＣＯ",
+  SUDO_NUMBERS : "2348022159244,2348141878740",
+  OWNER_NAME: "『..༈𝔅𝔩𝔞𝔫𝔨..』",
+  BOT_NAME : "..༈𝔅𝔩𝔞𝔫𝔨..bot",
   ZUSYCO_FILE : "ZUSYCO-QR",
   LOGOS: {
     ALIVE: 'https://i.ibb.co/YTWznr9/ZUSYCO-ALIVE-IMAGE-LOWQ.jpg',
@@ -35,8 +35,8 @@ module.exports = {
   WORK_TYPE : "public",
   WORK_MODE : "allchats",
   WORK_MODE_MESSAGE_SEND : false,
-  CAPTION : '© ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ ᴢᴜꜱʏᴄᴏ ᴍᴅ ʙᴏᴛ',
-  STICKER_PACK : '[ ZUSYCO ]',
+  CAPTION : '© ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ ..༈𝔅𝔩𝔞𝔫𝔨..bot',
+  STICKER_PACK : '[ ..༈𝔅𝔩𝔞𝔫𝔨.. ]',
   BAD_WORDS : 'fuck,pussy',
   ANTI_BAD : false,
   ANTI_LINKS : 'chat.whatsapp.com',
@@ -54,7 +54,7 @@ module.exports = {
   },
   BOT_OFFLINE : false,
   INBOX_BLOCK : false,
-  AUTO_REACT : false,
+  AUTO_REACT : true,
   OWNER_REACT : '🔥',
   AUTO_BGM : true,
   BGM : {

@@ -17,7 +17,7 @@ Creator : @iamxda-The joker , @Antisocial Humidity
 
 module.exports = {
   OWNER_NUMBER: "2348022159244",
-  SUDO_NUMBERS : "2348022159244,2348141878740",
+  SUDO_NUMBERS : "2348022159244,2349030610579",
   OWNER_NAME: "『..༈𝔅𝔩𝔞𝔫𝔨..』",
   BOT_NAME : "..༈𝔅𝔩𝔞𝔫𝔨..bot",
   ZUSYCO_FILE : "ZUSYCO-QR",

@@ -17,9 +17,9 @@ Creator : @iamxda-The joker , @Antisocial Humidity
 
 module.exports = {
   OWNER_NUMBER: "2348022159244",
-  SUDO_NUMBERS : "2348022159244,2349030610579",
-  OWNER_NAME: "『..༈𝔅𝔩𝔞𝔫𝔨..』",
-  BOT_NAME : "..༈𝔅𝔩𝔞𝔫𝔨..bot",
+  SUDO_NUMBERS : "2348022159244,2349065257229",
+  OWNER_NAME: "『..༈𝔈𝔅𝔘𝔎[𝔄𝔯𝔱]..』",
+  BOT_NAME : "..༈𝔈𝔅𝔘𝔎[𝔄𝔯𝔱]..𝔅𝔬𝔱",
   ZUSYCO_FILE : "ZUSYCO-QR",
   LOGOS: {
     ALIVE: 'https://i.ibb.co/YTWznr9/ZUSYCO-ALIVE-IMAGE-LOWQ.jpg',
@@ -32,10 +32,10 @@ module.exports = {
     },
   DESABLE_WELCOME_GOODBYE_JIDS : [],
   TIME_ZONE :  "Africa/Lagos",
-  WORK_TYPE : "public",
+  WORK_TYPE : "private",
   WORK_MODE : "allchats",
   WORK_MODE_MESSAGE_SEND : false,
-  CAPTION : '© ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ ..༈𝔅𝔩𝔞𝔫𝔨..bot',
+  CAPTION : '© ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ ..༈𝔈𝔅𝔘𝔎[𝔄𝔯𝔱]..𝔅𝔬𝔱',
   STICKER_PACK : '[ ..༈𝔅𝔩𝔞𝔫𝔨.. ]',
   BAD_WORDS : 'fuck,pussy',
   ANTI_BAD : false,
